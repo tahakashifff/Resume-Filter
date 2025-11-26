@@ -1,0 +1,6 @@
+Name: Alice Johnson
+Education: B.Sc. Computer Science, University of Example
+GPA: 3.8
+Skills: C++, Python, SQL, Git, Linux
+Experience: 2 years at ExampleCorp
+Certifications: AWS Certified Solutions Architect

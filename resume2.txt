@@ -1,0 +1,6 @@
+John Smith
+Education: BS Information Technology
+GPA: 3.1
+Technical Skills: Java, JavaScript, HTML, CSS, SQL
+Experience: 4 years at WebCo; 1 year internship at StartUp
+Certifications: Oracle Certified Professional

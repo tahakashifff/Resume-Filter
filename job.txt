@@ -1,0 +1,7 @@
+Job Title: Software Developer - Algorithms Focus
+Required Skills: C++, algorithms, data structures
+Preferred Skills: Python, SQL
+Min GPA: 3.2
+Min Experience: 2
+Required Certifications: AWS Certified Solutions Architect
+Description: Looking for a candidate with solid fundamentals in algorithms and data structures, strong C++ skills, and experience working in software teams.

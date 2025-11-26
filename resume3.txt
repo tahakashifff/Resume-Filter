@@ -1,0 +1,7 @@
+Name: Maria Gomez
+Education: B.Eng. Software Engineering
+CGPA: 9.0/10
+Skills: cpp, algorithms, data structures, machine learning, python
+Experience: 1 year at DataInc
+Certificates: None
+Additional Info: Volunteer tutor for programming
