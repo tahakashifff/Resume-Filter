@@ -184,23 +184,6 @@ Share the repo URL with teammates so they can clone it.
 
 ---
 
-## Next steps: Qt6 GUI integration (outline)
-When the console version is stable, the GUI will:
-- Use Qt 6 (Widgets) to provide:
-  - Buttons to select resumes folder and job file (QFileDialog).
-  - Start Processing button.
-  - QTableWidget to display results and QProgressBar to show progress.
-  - Save Report button.
-- Steps for each teammate:
-  - Install Qt 6 (https://www.qt.io/download).
-  - Install "Qt Visual Studio Tools" extension in Visual Studio (optional) or use Qt Creator.
-  - Create a Qt Widgets Application and add the core C++ files (parser, scorer, utils, report).
-  - Wire UI buttons to call the core functions (do not duplicate logic).
-  - Use QtConcurrent or QThread to keep UI responsive during processing.
-
-I can provide a step-by-step Qt6 integration guide and the Qt project files when you are ready.
-
----
 
 ## Contact / reporting issues
 - If you find a bug or want to request changes, open a GitHub Issue in the repo with:
