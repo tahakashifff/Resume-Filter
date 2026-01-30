@@ -1,6 +1,6 @@
 # Resume Filter — Project Setup & Contributor Guide
 
-This README helps your group members clone, build, run, and contribute to the Resume Filter (console-first) project on their own machines using GitHub and Visual Studio. It also includes notes about the later Qt6 GUI integration.
+This README helps your group members clone, build, run, and contribute to the Resume Filter (console-first) project on their own machines using GitHub and Visual Studio.
 
 ---
 
@@ -14,7 +14,6 @@ This README helps your group members clone, build, run, and contribute to the Re
 - Common issues & troubleshooting
 - Contributing & GitHub workflow
 - Adding the project to your GitHub account (if you fork/clone)
-- Next steps: Qt6 GUI integration
 - Contact / reporting issues
 
 ---
@@ -42,7 +41,6 @@ Make sure you have the following installed:
   - MSVC toolset
   - C++ CMake tools (optional)
 - C++ language standard set to C++17 (project property)
-- (Later, for GUI) Qt 6 and the "Qt Visual Studio Tools" plugin or use Qt Creator
 
 ---
 
@@ -56,7 +54,7 @@ Make sure you have the following installed:
 3. Enter the project folder:
    - cd repo
 
-If you prefer a GUI, you can use GitHub Desktop to clone the repository.
+You can also use GitHub Desktop to clone the repository.
 
 ---
 
